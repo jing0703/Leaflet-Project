@@ -1,6 +1,6 @@
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
-This project has been deployed on Heroku: https://polar-depths-81252.herokuapp.com/
+This project has been deployed on Heroku: https://earthquake-last-week.herokuapp.com/
 
 ## Background
 
