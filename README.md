@@ -1,4 +1,4 @@
-# Worldwide Earthquake activity Monitor
+# Worldwide Earthquake Activity Monitor
 [View Website](https://earthquake-last-week.herokuapp.com/)
 
 ## Background
